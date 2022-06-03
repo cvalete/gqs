@@ -1,1 +1,1 @@
-# gqs.github.io
+# gqs
