@@ -1,1 +1,1 @@
-# gqs/main
+# gqs/web
